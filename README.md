@@ -1,10 +1,10 @@
-<center>
+<div align=center>
 
-# Qiskit in Practice
+# Practical Qiskit
 
 Learn Qiskit with simple practical examples
 
-</center>
+</div>
 
 ### Why learn Qiskit?
 
